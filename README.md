@@ -12,5 +12,13 @@ The COVID-19 Data Analysis Project is dedicated to analyzing COVID-19 data from 
   - Vaccination Progress Over Time.
   - Testing Efficiency by Location.
 
+ - **Data Visualization in Tableau:** 
+  - Time series charts depicting the evolution of COVID-19 cases and deaths in the U.S.
+  - Interactive maps illustrating vaccination coverage across various states.
+  - Dashboard views to compare deaths by location.
+
 ## Data Source:
-- The complete dataset can be found at https://ourworldindata.org/covid-deaths 
+- The complete dataset can be found at https://ourworldindata.org/covid-deaths
+
+## Data Visualization:
+- Link to dashboard: https://public.tableau.com/app/profile/marvin.dan1245/viz/CovidStatistics_16979520186990/Dashboard1?publish=yes 
