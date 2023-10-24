@@ -1,4 +1,4 @@
-# Covid-Data-Analysis
+# COVID-19-Data-Analysis
 
 ## Project Description
 
